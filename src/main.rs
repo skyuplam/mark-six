@@ -1,3 +1,7 @@
+#![feature(plugin)]
+
+#![plugin(clippy)]
+
 extern crate iron;
 
 use iron::prelude::{Iron, Request, Response};
