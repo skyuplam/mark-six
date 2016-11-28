@@ -1,0 +1,7 @@
+[package]
+name = "mark-six"
+version = "0.1.0"
+authors = ["terrencelam <skyuplam@gmail.com>"]
+
+[dependencies]
+iron = "0.4.0"
